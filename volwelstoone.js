@@ -13,4 +13,5 @@ function trocaVogais(string) {
     } else {
       arr += char;
     }
-  }
+  }return arr;
+}
